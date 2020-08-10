@@ -4,5 +4,5 @@ An IoT project for Hive's ping pong table. The goal of this project is to let pl
 Contributors:
 
 [Miikka Tuominen](https://github.com/tuommii)<br>
-[Rasmus Jaakonmäki](https://github.com/ninjapiraatti)<br>
+[Rasmus Jaakonmäki](https://github.com/rasmusjaa)<br>
 [Tuomas Louekari](https://github.com/ninjapiraatti)
