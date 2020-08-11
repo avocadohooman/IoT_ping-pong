@@ -5,5 +5,5 @@ Contributors:
 
 [Miikka Tuominen](https://github.com/tuommii)<br>
 [Rasmus Jaakonmäki](https://github.com/rasmusjaa)<br>
-[Tuomas Louekari](https://github.com/ninjapiraatti)
+[Tuomas Louekari](https://github.com/ninjapiraatti)<br>
 [Vesa Kuokka](https://github.com/vkuokka)
